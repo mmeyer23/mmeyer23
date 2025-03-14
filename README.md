@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mmeyer23/mmeyer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m Mason, a Full Stack Software Engineer and Entrepreneur.
 
-Here are some ideas to get you started:
+🌱 I have co-founded multiple businesses and worked in varying roles from Web Developer to Chief Technical Officer over the last 10 years.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 These experiences have deeply routed in me a consumer first approach when it comes to development.  I have seen first-hand how vital customer retention and little details with the user experience can impact your business' success.
+
+📚🏕️ I have a passion for learning and the outdoors.   
+
+⚡ Fun fact: I have a 600+ day streak on Duolingo 
+
+You can reach me at my [LinkedIn](www.linkedin.com/in/-mason-meyer) , email me at [mason.meyer@gmail.com](mailto:mason.meyer@gmail.com) , or check out my [Website](https://mason-meyer.netlify.app/)
+
+## My Skills
+- Full-stack Development (Node.js, Express, React, etc.)
+- Frontend (HTML, CSS, JavaScript)
+- Database (SQL, MongoDB)
+- And more!
