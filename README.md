@@ -1,10 +1,10 @@
 # Hi there 👋
 
-🔭 I’m Mason, a Full Stack Software Engineer and Entrepreneur.
+🖥️ I’m Mason, a Full Stack Software Engineer and Entrepreneur.
 
-🌱 I have co-founded multiple businesses and worked in varying roles from Web Developer to Chief Technical Officer over the last 10 years.   
+🌱 I have co-founded multiple businesses and worked in varying roles from Web Developer, to Growth Engineer, to Chief Operations Officer over the last 10 years.   
 
-🤔 These experiences have deeply routed in me a consumer first approach when it comes to development.  I have seen first-hand how vital customer retention and little details with the user experience can impact your business' success.
+🤔⚖️ My experience in nearly every area of business has given me a unique perspective on software engineering, allowing me to bridge the gap between technology and business needs.
 
 📚🏕️ I have a passion for learning and the outdoors.   
 
