@@ -21,7 +21,7 @@
 You can reach me at my [LinkedIn](www.linkedin.com/in/-mason-meyer) , email me at [mason.meyer@gmail.com](mailto:mason.meyer@gmail.com) , or check out my [Website](https://mason-meyer.netlify.app/)
 
 ## My Skills
-- Full-stack Development (Node.js, Express, React, etc.)
-- Frontend (HTML, CSS, JavaScript)
-- Database (SQL, MongoDB)
+- Backend (Node.js, Express, Next.js, RESTful APIs, etc.)
+- Frontend (HTML5, CSS3, TailWindCSS, React, Redux, Material UI, etc.)
+- Databases (PostgreSQL, MongoDB)
 - And more!
