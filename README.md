@@ -10,7 +10,7 @@
 
 🖥️ A Full Stack Developer primarily working in JavaScript/TypeScript with some experience in Python and C++ as well.
 
-🌱 I have co-founded multiple businesses and worked in varying roles from Web Developer, to Growth Engineer, to Chief Operations Officer over the last 10 years.   
+🌱 I have co-founded multiple businesses and worked in varying roles from Web Developer, to Growth Engineer, to Chief Operations Officer over the last 8 years.   
 
 🤔⚖️ My experience in nearly every area of business has given me a unique perspective on software engineering, allowing me to bridge the gap between technology and business needs.
 
